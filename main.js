@@ -4,6 +4,53 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const modalDiv = document.getElementById("modal");
+modalDiv.className = "hidden";
+
+// document.addEventListener("DOMContentLoaded", function() {
+
+
+// })
+
+// const likeClass = document.getElementsByCclassName("like-glyph")
+// EMPTY_HEART.addEventListener("click", funtion(){
+//   mimicServerCall()
+// })
+
+
+
+
+
+
+
+
+
+
+// document.addEventListener("DOMContentLoaded", function (){
+//   const like = document.querySelector(".like-glyph")
+//       like.addEventListener("click", function(){
+//         mimicServerCall()
+        
+//   })
+
+// })
+
+// mimicServerCall()
+// .then(function(serverMessage){
+
+// if (key.innerHTML == EMPTY_HEART) {
+//   key.innerHTML = FULL_HEART
+//   key.style.color = "red"
+// }
+// else {
+//   key.innerHTML = EMPTY_HEART
+//   key.style.color = ""
+// }})
+// .catch(function(error){
+//   document.getElementById("modal").className = "";
+//   setTimeout(function() {
+//   document.getElementById("modal").className = "hidden"
+//   }, 3000)
 
 
 
